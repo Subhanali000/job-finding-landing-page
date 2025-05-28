@@ -46,4 +46,4 @@ Add your own job listings, categories, or logos in the respective sections.
 
 Update styles.css for design tweaks as needed.
 
-📷 Screenshots
+
